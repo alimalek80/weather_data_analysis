@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa145783-3402-4659-878f-4b593c762b2b" name="Changes" comment="some small update">
+    <list default="true" id="fa145783-3402-4659-878f-4b593c762b2b" name="Changes" comment="Finding basic information about the dataframe.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Weather_Data_Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Weather_Data_Analysis.ipynb" afterDir="false" />
     </list>
@@ -16,21 +16,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "alimalek80"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alimalek80&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/alimalek80/weather_data_analysis.git",
-    "accountId": "29a84917-b246-44d5-a8d8-b19fbc7b00d4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alimalek80/weather_data_analysis.git&quot;,
+    &quot;accountId&quot;: &quot;29a84917-b246-44d5-a8d8-b19fbc7b00d4&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2rvJXpaGmALShvuWCqZx259nE9X" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,6 +41,7 @@
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -66,7 +67,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737433661791</updated>
-      <workItem from="1737433663550" duration="2864000" />
+      <workItem from="1737433663550" duration="3018000" />
+      <workItem from="1737757294197" duration="1596000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit:&#10;Setup Project and make dataset">
       <option name="closed" value="true" />
@@ -84,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737435982624</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finding basic information about the dataframe.">
+      <option name="closed" value="true" />
+      <created>1737437101247</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737437101247</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit:&#10;Setup Project and make dataset" />
     <MESSAGE value="some small update" />
-    <option name="LAST_COMMIT_MESSAGE" value="some small update" />
+    <MESSAGE value="Finding basic information about the dataframe." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finding basic information about the dataframe." />
   </component>
 </project>
