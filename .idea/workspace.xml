@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa145783-3402-4659-878f-4b593c762b2b" name="Changes" comment="Finding basic information about the dataframe.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Weather_Data_Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Weather_Data_Analysis.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="fa145783-3402-4659-878f-4b593c762b2b" name="Changes" comment="feat: Analyzed weather dataset to answer key questions&#10;&#10;- Found all unique 'Wind Speed' values using `nunique()` and `unique()`.&#10;- Calculated occurrences of 'Clear' weather using `value_counts()` and filtering.&#10;- Identified instances where 'Wind Speed' was exactly 4 km/h.&#10;- Checked for null values using `isnull().sum()` and `notnull().sum()`.&#10;- Renamed 'Weather' column to 'Weather Condition' using `rename()`.&#10;- Calculated mean 'Visibility' and standard deviation of 'Pressure'.&#10;- Added insights and results for each analysis step." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737433661791</updated>
       <workItem from="1737433663550" duration="3018000" />
-      <workItem from="1737757294197" duration="1596000" />
+      <workItem from="1737757294197" duration="1966000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit:&#10;Setup Project and make dataset">
       <option name="closed" value="true" />
@@ -94,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737437101247</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: Analyzed weather dataset to answer key questions&#10;&#10;- Found all unique 'Wind Speed' values using `nunique()` and `unique()`.&#10;- Calculated occurrences of 'Clear' weather using `value_counts()` and filtering.&#10;- Identified instances where 'Wind Speed' was exactly 4 km/h.&#10;- Checked for null values using `isnull().sum()` and `notnull().sum()`.&#10;- Renamed 'Weather' column to 'Weather Condition' using `rename()`.&#10;- Calculated mean 'Visibility' and standard deviation of 'Pressure'.&#10;- Added insights and results for each analysis step.">
+      <option name="closed" value="true" />
+      <created>1737760546286</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737760546287</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +109,7 @@
     <MESSAGE value="Initial Commit:&#10;Setup Project and make dataset" />
     <MESSAGE value="some small update" />
     <MESSAGE value="Finding basic information about the dataframe." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finding basic information about the dataframe." />
+    <MESSAGE value="feat: Analyzed weather dataset to answer key questions&#10;&#10;- Found all unique 'Wind Speed' values using `nunique()` and `unique()`.&#10;- Calculated occurrences of 'Clear' weather using `value_counts()` and filtering.&#10;- Identified instances where 'Wind Speed' was exactly 4 km/h.&#10;- Checked for null values using `isnull().sum()` and `notnull().sum()`.&#10;- Renamed 'Weather' column to 'Weather Condition' using `rename()`.&#10;- Calculated mean 'Visibility' and standard deviation of 'Pressure'.&#10;- Added insights and results for each analysis step." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Analyzed weather dataset to answer key questions&#10;&#10;- Found all unique 'Wind Speed' values using `nunique()` and `unique()`.&#10;- Calculated occurrences of 'Clear' weather using `value_counts()` and filtering.&#10;- Identified instances where 'Wind Speed' was exactly 4 km/h.&#10;- Checked for null values using `isnull().sum()` and `notnull().sum()`.&#10;- Renamed 'Weather' column to 'Weather Condition' using `rename()`.&#10;- Calculated mean 'Visibility' and standard deviation of 'Pressure'.&#10;- Added insights and results for each analysis step." />
   </component>
 </project>
